@@ -5,11 +5,6 @@ This project enables data-driven API testing using Playwright Test. It reads inp
 
 This project is a data-driven automated API testing setup using [Playwright Test](https://playwright.dev/). It dynamically sends requests to an API endpoint using input data from an external JSON file and verifies the responses accordingly.
 
-
-# 🔍 API Data-Driven Test with Playwright
-
-This project is a data-driven automated API testing setup using [Playwright Test](https://playwright.dev/). It dynamically sends requests to an API endpoint using input data from an external JSON file and verifies the responses accordingly.
-
 ---
 
 ## ✅ Features
