@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "module": "ESNext",              // Gunakan ESNext untuk module system
+      "target": "ESNext",              // Tentukan target output ESNext
+      "moduleResolution": "node",      // Resolusi modul menggunakan sistem node
+      "esModuleInterop": true,         // Memungkinkan interoperabilitas antara import/export dan require
+      "strict": true,                  // Aktifkan pemeriksaan ketat (strict mode)
+      "skipLibCheck": true,            // Untuk mempercepat kompilasi jika ada masalah dengan deklarasi tipe di library
+      "forceConsistentCasingInFileNames": true, // Menjamin konsistensi kapitalisasi nama file
+      "outDir": "./dist",              // Tentukan folder output build TypeScript
+      "baseUrl": ".",                  // Tentukan baseUrl untuk resolve modul
+      "paths": {
+        "*": ["node_modules/*"]        // Tentukan paths untuk modul
+      }
+    },
+    "include": ["src/**/*.ts", "api-test.spec.ts"],   // Tentukan file/folder yang akan dikompilasi
+    "exclude": ["node_modules", "dist"]               // Tentukan folder yang tidak perlu dikompilasi
+  }
+  
