@@ -1,0 +1,34 @@
+[
+  {
+    "sourceRequest": "Legacy Corporate",
+    "name": "PT BAHANA BHAKTIP",
+    "idNumber": "1050176605823007",
+    "dob": "1987-09-03",
+    "policyHolderJob": "Koperasi",
+    "lineOfBusiness": "BANK SENTRAL",
+    "corporateAddress": "JL. LETJEN SUPRAPTO KAV.20 NO.14 CEMPAKA PUTIH JAKARTA PUSAT",
+    "placeOfBusiness": "DAERAH KHUSUS IBUKOTA JAKARTA",
+    "dateOfBusiness": "2023-06-01",
+    "formOfBusinessEntity": "Koperasi",
+    "typeOfInsurance": "unit link",
+    "areaClosedPolicy": "35.02",
+    "paymentMethod": "EDC",
+    "insuranceProduct": "AnuitasPRIMA"
+  },
+  {
+    "sourceRequest": "Legacy Corporate",
+    "name": "PT BAHANA BHAKTIP",
+    "idNumber": "1050176605823007",
+    "dob": "1987-09-03",
+    "policyHolderJob": "Perusahaan",
+    "lineOfBusiness": "BANK SENTRAL",
+    "corporateAddress": "JL. LETJEN SUPRAPTO KAV.20 NO.14 CEMPAKA PUTIH JAKARTA PUSAT",
+    "placeOfBusiness": "DAERAH KHUSUS IBUKOTA JAKARTA",
+    "dateOfBusiness": "2023-06-01",
+    "formOfBusinessEntity": "Perusahaan Terbatas",
+    "typeOfInsurance": "unit link",
+    "areaClosedPolicy": "35.02",
+    "paymentMethod": "Transfer",
+    "insuranceProduct": "LifeChance"
+  }
+]

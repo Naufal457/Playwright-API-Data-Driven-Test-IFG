@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Ashley Davis",
+    "idNumber": "0",
+    "dob": "1961-07-11",
+    "policyHolderJob": "lainnya",
+    "policyCoverageArea": "61.71",
+    "typeOfInsurance": "kematian jangka warsa",
+    "paymentMethod": "transfer bank",
+    "insuranceProduct": "Group Life Protection",
+    "sourceRequest": "GLP2025"
+  },
+  {
+    "name": "Patrick Martin",
+    "idNumber": "0",
+    "dob": "1965-09-13",
+    "policyHolderJob": "lainnya",
+    "policyCoverageArea": "61.71",
+    "typeOfInsurance": "kematian jangka warsa",
+    "paymentMethod": "transfer bank",
+    "insuranceProduct": "Group Life Protection",
+    "sourceRequest": "GLP2025"
+  }
+
+]

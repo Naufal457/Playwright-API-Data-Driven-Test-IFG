@@ -1,0 +1,24 @@
+[
+    {
+      "sourceRequest": "BPMN_UW",
+      "name": "TESTING TOLONGX",
+      "idNumber": "3202071502061102",
+      "idType": "NIK",
+      "dob": "1989-01-10"
+    },
+    {
+      "sourceRequest": "BPMN_UW",
+      "name": "TESTING HIGH RISK",
+      "idNumber": "3202071502061202",
+      "idType": "NIK",
+      "dob": "1990-04-15"
+    },
+    {
+      "sourceRequest": "BPMN_UW",
+      "name": "TESTING MEDIUM RISK",
+      "idNumber": "3202071502061302",
+      "idType": "NIK",
+      "dob": "1992-07-30"
+    }
+  ]
+  
